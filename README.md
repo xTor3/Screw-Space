@@ -11,3 +11,5 @@ This is a firmware developed for esp32 to control a solid-propelled rocket model
 ![Front](/Images/image1.jpeg)
 ### Retro
 ![Retro](/Images/image2.jpeg)
+### Fusion360 Model
+![3D Render](/Images/image3.jpg)
